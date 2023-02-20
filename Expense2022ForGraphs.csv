@@ -1,0 +1,20 @@
+,Expense,Total,ExpenseCat,ExpenseSubCat
+0,COGS - Supplies & Materials,205000.0,COGS,Supplies & Materials
+1,COGS - Subcontractors,68000.0,COGS,Subcontractors
+2,COGS - Equipment Rental,25000.0,COGS,Equipment Rental
+3,Labor - Salaries and Wages,343000.0,Labor,Salaries and Wages
+4,Labor - Payroll Taxes,26000.0,Labor,Payroll Taxes
+5,Labor - Employee Benefits,26000.0,Labor,Employee Benefits
+6,Meals,38021.0,Meals,Meals
+7,Travel,81570.0,Travel,Travel
+8,Professional Fees,19349.35,Addtl Exp,Professional Fees
+9,Bad Debt,90150.0,Bad Debt,Bad Debt
+10,Insurance,10639.0,Addtl Exp,Insurance
+11,Office Supplies / Subsriptions,6486.0,Addtl Exp,Office Supplies / Subsriptions
+12,Uniforms,3171.0,Addtl Exp,Uniforms
+13,Ads / Marketing / Listing Fees,3814.0,Addtl Exp,Ads / Marketing / Listing Fees
+14,rent - warehouse,6500.0,Rent,warehouse
+15,Vehicle - Company Trucks,30120.0,Vehicle,Company Trucks
+16,Vehicle - parking and tolls,4723.55,Vehicle,parking and tolls
+17,Vehicle - Gas and Fuel,13045.92,Vehicle,Gas and Fuel
+18,Net Income,39796.18,Net Income,Net Income
