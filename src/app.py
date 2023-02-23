@@ -9,9 +9,8 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 
 
-exp = pd.read_csv("/Users/caseyleo/Desktop/DCO FINANCIAL DASH - DATA/Expense2022ForGraphs.csv")
-JobHours = pd.read_csv("/Users/caseyleo/Desktop/DCO FINANCIAL DASH - DATA/JOBHOURSYTD_02_17_2023.csv")
-rev = pd.read_csv("/Users/caseyleo/Desktop/DCO FINANCIAL DASH - DATA/revTT2.csv")
+exp = pd.read_csv("https://raw.githubusercontent.com/DuaneIndustries/DuaneProjections/main/Expense2022ForGraphs.csv")
+rev = pd.read_csv("https://raw.githubusercontent.com/DuaneIndustries/DuaneProjections/main/revTT2.csv")
 PJ = pd.read_csv("/Users/caseyleo/Desktop/DCO FINANCIAL DASH - DATA/ProjectHours2.csv")
 print(PJ.head(5))
 
