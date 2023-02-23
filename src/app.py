@@ -34,7 +34,9 @@ app = dash.Dash(__name__,external_stylesheets=[dash_bootstrap_components.themes.
               meta_tags=[{'name':'viewport',
                           'content': 'width=device-width, intial-scale=1.0'}]
                 )
+
 server = app.server
+
 # LAYOUT
 app.layout = dbc.Container([
     dbc.Row([
