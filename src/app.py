@@ -11,7 +11,7 @@ import dash_bootstrap_components as dbc
 
 exp = pd.read_csv("https://raw.githubusercontent.com/DuaneIndustries/DuaneProjections/main/Expense2022ForGraphs.csv")
 rev = pd.read_csv("https://raw.githubusercontent.com/DuaneIndustries/DuaneProjections/main/revTT2.csv")
-PJ = pd.read_csv("/Users/caseyleo/Desktop/DCO FINANCIAL DASH - DATA/ProjectHours2.csv")
+PJ = pd.read_csv("https://raw.githubusercontent.com/DuaneIndustries/DuaneProjections/main/revTT2.csv")
 print(PJ.head(5))
 
 
